@@ -19,7 +19,7 @@
 
 <h2>📄 Certifications:</h2>
 
-- [Data Analysis with SQL](https://www.codecademy.com/profiles/boardAce58504/certificates/5cafb2d937090210d7df3652)
+- [Data Analysis with SQL](https://drive.google.com/file/d/1ihv51g-kq-Duyn2t0llORAzG1vDNi_kL/view?usp=sharing)
 - [Machine Learning/AI Engineer]
 - [UX Design Certificate]
 
