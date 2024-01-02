@@ -1,13 +1,13 @@
 <h1>Hi, I'm Matti! <br/><a href="https://ucsdtritons.com/sports/womens-rowing/roster/matti-key/13072">D1 Student-Athlete</a>, <a href="https://cogsci.ucsd.edu/undergraduates/major/machine-learning.html">Major: Cognitive Science: Machine Learning and Neural Computation</a>, <a href="https://catalog.ucsd.edu/archive/2021-22/curric/DSC.html">Minor: Data Science</a>, <a href="www.linkedin.com/in/matti-key">Aspiring Machine Learning/AI Engineer</a>
 
-<h2>👩🏽‍💻 Machine Learning Projects:</h2>
+<h2>👩🏽‍💻 Machine Learning Projects (more projects will be uploaded soon):</h2>
 
 - <b>Basic Image Processing App </b>
   - [RGB Image Transformer and KNN Classifier (python)](https://github.com/keyaura3/BasicImageProcessing/tree/main)
 - <b>Image Editor </b>
   - [Two-dimensional Arrays (java)](https://github.com/keyaura3/ImageEditor)
 
-<h2>📊 Data Science Projects:</h2>
+<h2>📊 Data Science Projects (more projects will be uploaded soon):</h2>
 
 - <b>Data Analysis of Great British Bake Off </b>
   - [Will be uploaded soon (python)]
