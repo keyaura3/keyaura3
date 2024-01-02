@@ -3,7 +3,9 @@
 <h2>👩🏽‍💻 Machine Learning Projects:</h2>
 
 - <b>Basic Image Processing App </b>
-  - [RGB Image Transformer and KNN Classifier](https://github.com/keyaura3/BasicImageProcessing/tree/main)
+  - [RGB Image Transformer and KNN Classifier (python)](https://github.com/keyaura3/BasicImageProcessing/tree/main)
+- <b>Image Editor </b>
+  - [Two-dimensional Arrays (java)](https://github.com/keyaura3/BasicImageProcessing/tree/main)
 
 <h2>📊 Data Science Projects:</h2>
 
