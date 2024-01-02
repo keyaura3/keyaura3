@@ -2,8 +2,8 @@
 
 <h2>👩🏽‍💻 Machine Learning Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Basic Image Processing App </b>
+  - [RGB Image Transformer and KNN Classifier](https://github.com/keyaura3/BasicImageProcessing/tree/main)
 
 <h2>📊 Data Science Projects:</h2>
 
