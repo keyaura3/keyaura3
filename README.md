@@ -10,6 +10,7 @@
 <h2>📊 Data Science Projects:</h2>
 
 - <b>Data Analysis of Great British Bake Off </b>
+  - [Will be uploaded soon (python)]
 
 
 <h2>👩🏽‍🎨 UX/UI Design Projects:</h2>
