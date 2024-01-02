@@ -5,7 +5,7 @@
 - <b>Basic Image Processing App </b>
   - [RGB Image Transformer and KNN Classifier (python)](https://github.com/keyaura3/BasicImageProcessing/tree/main)
 - <b>Image Editor </b>
-  - [Two-dimensional Arrays (java)](https://github.com/keyaura3/BasicImageProcessing/tree/main)
+  - [Two-dimensional Arrays (java)](https://github.com/keyaura3/ImageEditor)
 
 <h2>📊 Data Science Projects:</h2>
 
