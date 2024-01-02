@@ -12,7 +12,7 @@
 - <b>Data Analysis of Great British Bake Off </b>
   - [Will be uploaded soon (python)]
 - <b>User Churn </b>
-  - [Will be uploaded soon (SQL)]
+  - [Expected User Churn Rate (SQL)](https://github.com/keyaura3/UserChurn)
 
 
 <h2>👩🏽‍🎨 UX/UI Design Projects:</h2>
