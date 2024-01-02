@@ -14,8 +14,10 @@
 
 <h2>👩🏽‍🎨 UX/UI Design Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Appointment Scheduling App </b>
+  - [Wireframe, Mock-Up, High-Fidelity model using Figma](https://www.figma.com/file/jfLy4HE5dM4Bx0OeEtXIrn/hospital-app?type=design&node-id=0-1&mode=design)
+- <b>Quiz-Taking website for Local School </b>
+  - [Link to AdobeXD Low-fidelity model](https://xd.adobe.com/view/671abdff-ceee-4d7b-96d9-8028718571d0-3249/?fullscreen)
 
 <h2>📄 Certifications:</h2>
 
