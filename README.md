@@ -28,7 +28,7 @@
 <h2>📄 Certifications:</h2>
 
 - [Data Analysis with SQL](https://drive.google.com/file/d/1r-0AWbWDrObmgfHCY9nfQQ5IpYNdnr4H/view?usp=sharing)
-- [Machine Learning/AI Engineer]
+- [Machine Learning and AI Fundamentals]
 - [UX Design Certificate]
 
 
