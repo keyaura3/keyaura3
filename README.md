@@ -13,6 +13,9 @@
   - [Will be uploaded soon (python)]
 - <b>User Churn </b>
   - [Expected User Churn Rate (SQL)](https://github.com/keyaura3/UserChurn)
+- <b>Attribution Queries </b>
+  - [Marketing Attribution Queries (SQL)](https://github.com/keyaura3/AttributionQueries)
+
 
 
 <h2>👩🏽‍🎨 UX/UI Design Projects:</h2>
