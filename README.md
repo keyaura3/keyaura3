@@ -38,16 +38,18 @@
 
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Reach out to me:</h2>
+- Email me at akey@ucsd.edu
+</b>
+
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="JoshMadakor | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][gmail]
 
 
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: www.linkedin.com/in/matti-key
-[gmail]: akey@ucsd.edu
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
