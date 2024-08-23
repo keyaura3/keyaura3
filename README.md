@@ -4,7 +4,7 @@
 
 - <b>Local and Private Text-to-SQL and RAG Chatbot</b>
   - Troubleshooting Bot (python & javascript)
-- <b>Open Source Chatbot</b>
+- <b>Chatbot using Closed-Sourced LLMs</b>
 
 <h2>👩🏽‍💻 Machine Learning Projects (more projects will be uploaded soon):</h2>
 
