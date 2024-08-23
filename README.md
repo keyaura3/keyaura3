@@ -3,7 +3,7 @@
 <h2>🚀 Summer 2024 Internship Projects:</h2>
 
 - <b>Local and Private Text-to-SQL and RAG Chatbot</b>
-  - Troubleshooting Bot (python & javascript)
+  - [Troubleshooting Bot (python & javascript)](https://github.com/keyaura3/Troubleshooting-Bot/tree/main)
 - <b>Chatbot using Closed-Sourced LLMs</b>
 
 <h2>👩🏽‍💻 Machine Learning Projects (more projects will be uploaded soon):</h2>
