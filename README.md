@@ -2,15 +2,17 @@
 
 <h2>🚀 Summer 2024 Internship Projects:</h2>
 
-- <b>Local and Private Text-to-SQL and RAG Chatbot</b>
+- <b>Local and Private Text-to-SQL and RAG Chatbot (Summer 2024)</b>
   - [Troubleshooting Bot (python & javascript)](https://github.com/keyaura3/Troubleshooting-Bot/tree/main)
-- <b>Chatbot using Closed-Sourced LLMs</b>
+- <b>Chatbot using Closed-Sourced LLMs (Summer 2024)</b>
 
-<h2>👩🏽‍💻 Machine Learning Projects (more projects will be uploaded soon):</h2>
+<h2>👩🏽‍💻 Machine Learning Projects:</h2>
 
+- <b>News Network Engagement (Spring 2024)</b>
+  - [Text Analysis of News Network Posts (python, vader, textblob, NLP)](https://github.com/keyaura3/News-Engagement/tree/main)
 - <b>Basic Image Processing App </b>
   - [RGB Image Transformer and KNN Classifier (python)](https://github.com/keyaura3/BasicImageProcessing/tree/main)
-- <b>Image Editor </b>
+- <b>Image Editor</b>
   - [Two-dimensional Arrays (java)](https://github.com/keyaura3/ImageEditor)
 
 <h2>📊 Data Science Projects:</h2>
