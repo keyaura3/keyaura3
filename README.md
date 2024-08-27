@@ -8,7 +8,9 @@
 
 <h2>👩🏽‍💻 Machine Learning Projects:</h2>
 
-- <b>News Network Engagement (Spring 2024)</b>
+- <b>Dream Sentiment Analysis (Spring 2024)</b>
+  - [Statistical Analysis on Dream Valence (python, vader)](https://github.com/keyaura3/Dream-Valance)
+- <b>News Network Engagement (Winter 2024)</b>
   - [Text Analysis of News Network Posts (python, vader, textblob, NLP)](https://github.com/keyaura3/News-Engagement/tree/main)
 - <b>Basic Image Processing App </b>
   - [RGB Image Transformer and KNN Classifier (python)](https://github.com/keyaura3/BasicImageProcessing/tree/main)
@@ -18,7 +20,6 @@
 <h2>📊 Data Science Projects:</h2>
 
 - <b>Data Analysis of Great British Bake Off </b>
-  - [Will be uploaded soon (python)]
 - <b>Commuter Census Data </b>
   - [New York Travel Times using Census Data (python, API, CSV)](https://github.com/keyaura3/CommuterCensusData/tree/main)   
 - <b>User Churn </b>
