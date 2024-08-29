@@ -11,7 +11,7 @@
 - <b>Dream Sentiment Analysis (Spring 2024)</b>
   - [Statistical Analysis on Dream Valence (python, vader)](https://github.com/keyaura3/Dream-Valance)
 - <b>News Network Engagement (Winter 2024)</b>
-  - [Text Analysis of News Network Posts (python, vader, textblob, NLP)](https://github.com/keyaura3/News-Engagement/tree/main)
+  - [Text Analysis of News Network Posts (python, vader, textblob, nlp)](https://github.com/keyaura3/News-Engagement/tree/main)
 - <b>Basic Image Processing App </b>
   - [RGB Image Transformer and KNN Classifier (python)](https://github.com/keyaura3/BasicImageProcessing/tree/main)
 - <b>Image Editor</b>
@@ -21,11 +21,11 @@
 
 - <b>Data Analysis of Great British Bake Off </b>
 - <b>Commuter Census Data </b>
-  - [New York Travel Times using Census Data (python, API, CSV)](https://github.com/keyaura3/CommuterCensusData/tree/main)   
+  - [New York Travel Times using Census Data (python, api, csv)](https://github.com/keyaura3/CommuterCensusData/tree/main)   
 - <b>User Churn </b>
-  - [Expected User Churn Rate (SQL)](https://github.com/keyaura3/UserChurn)
+  - [Expected User Churn Rate (sql)](https://github.com/keyaura3/UserChurn)
 - <b>Attribution Queries </b>
-  - [Marketing Attribution Queries (SQL)](https://github.com/keyaura3/AttributionQueries)
+  - [Marketing Attribution Queries (sql)](https://github.com/keyaura3/AttributionQueries)
 
     
 
@@ -34,9 +34,9 @@
 <h2>👩🏽‍🎨 UX/UI Design Projects:</h2>
 
 - <b>Appointment Scheduling App </b>
-  - [Wireframe, Mock-Up, High-Fidelity model (Figma)](https://www.figma.com/file/jfLy4HE5dM4Bx0OeEtXIrn/hospital-app?type=design&node-id=0-1&mode=design)
+  - [Wireframe, Mock-Up, High-Fidelity model (figma)](https://www.figma.com/file/jfLy4HE5dM4Bx0OeEtXIrn/hospital-app?type=design&node-id=0-1&mode=design)
 - <b>Quiz-Taking website for Local School </b>
-  - [Low-fidelity model (AdobeXD)](https://xd.adobe.com/view/671abdff-ceee-4d7b-96d9-8028718571d0-3249/?fullscreen)
+  - [Low-fidelity model (adobexd)](https://xd.adobe.com/view/671abdff-ceee-4d7b-96d9-8028718571d0-3249/?fullscreen)
 
 <h2>📄 Certifications:</h2>
 
@@ -48,7 +48,7 @@
 
 
 <h2> 🤳 Reach out to me:</h2>
-- Email me at akey@ucsd.edu
+- 📫 Email me at akey@ucsd.edu
 </b>
 
 
