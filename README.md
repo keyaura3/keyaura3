@@ -8,6 +8,8 @@
 
 <h2>👩🏽‍💻 Machine Learning Projects:</h2>
 
+- <b>Comparative Study of Supervised Machine Learning Algorithms (Fall 2024)</b>
+  - [A Comparative Study of Supervised Machine Learning Algorithms Across Diverse Datasets and Partitions (python, sklearn, random forests, svm, neural networks)](https://github.com/keyaura3/COGS-118A-FINAL-PROJECT/tree/main)
 - <b>Dream Sentiment Analysis (Spring 2024)</b>
   - [Statistical Analysis on Dream Valence (python, vader)](https://github.com/keyaura3/Dream-Valance)
 - <b>News Network Engagement (Winter 2024)</b>
@@ -20,7 +22,7 @@
 <h2>📊 Data Science Projects:</h2>
 
 - <b>League of Legends Analysis (Fall 2024)</b>
-  - [League of Legends Early Statistic Analysis (python, sklearn)](https://github.com/keyaura3/League-Of-Legends-Analysis)
+  - [League of Legends Early Statistic Analysis (python, sklearn, random forests, linear regression)](https://github.com/keyaura3/League-Of-Legends-Analysis)
 - <b>Commuter Census Data </b>
   - [New York Travel Times using Census Data (python, api, csv)](https://github.com/keyaura3/CommuterCensusData/tree/main)   
 - <b>User Churn </b>
