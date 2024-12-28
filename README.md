@@ -19,7 +19,8 @@
 
 <h2>📊 Data Science Projects:</h2>
 
-- <b>Data Analysis of Great British Bake Off </b>
+- <b>League of Legends Analysis (Fall 2024)</b>
+  - [League of Legends Early Statistic Analysis (python, sklearn)](https://github.com/keyaura3/League-Of-Legends-Analysis)
 - <b>Commuter Census Data </b>
   - [New York Travel Times using Census Data (python, api, csv)](https://github.com/keyaura3/CommuterCensusData/tree/main)   
 - <b>User Churn </b>
