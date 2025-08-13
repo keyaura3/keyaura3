@@ -1,4 +1,4 @@
-<h1>Hi, I'm Matti! <br/><a href="https://ucsdtritons.com/sports/womens-rowing/roster/matti-key/13072">D1 Student-Athlete</a>, <a href="https://cogsci.ucsd.edu/undergraduates/major/machine-learning.html">Major: Cognitive Science: Machine Learning and Neural Computation</a>, <a href="https://catalog.ucsd.edu/archive/2021-22/curric/DSC.html">Minor: Data Science</a> <a href="www.linkedin.com/in/matti-key"></a>
+<h1>Hi, I'm Aura! <br/><a href="https://ucsdtritons.com/sports/womens-rowing/roster/matti-key/13072">D1 Student-Athlete</a>, <a href="https://cogsci.ucsd.edu/undergraduates/major/machine-learning.html">Major: Cognitive Science: Machine Learning and Neural Computation</a>, <a href="https://catalog.ucsd.edu/archive/2021-22/curric/DSC.html">Minor: Data Science</a> <a href="www.linkedin.com/in/matti-key"></a>
 
 <h2>👩🏽‍💻 Machine Learning Projects:</h2>
 
