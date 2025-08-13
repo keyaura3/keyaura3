@@ -8,6 +8,9 @@
 
 <h2>👩🏽‍💻 Machine Learning Projects:</h2>
 
+- <b>Sleep Quality Predictor (Spring 2025)</b>
+  - [Analyze your sleep patterns using evidence-based research data (python, javascript, data analysis, neural networks, prediction)](https://github.com/CONNIELIUGH/DSC106_Final_Project)
+  - <b>[Final Website](https://connieliugh.github.io/DSC106_Final_Project/)</b>
 - <b>Comparative Study of Supervised Machine Learning Algorithms (Fall 2024)</b>
   - [A Comparative Study of Supervised Machine Learning Algorithms Across Diverse Datasets and Partitions (python, sklearn, random forests, svm, neural networks)](https://github.com/keyaura3/COGS-118A-FINAL-PROJECT/tree/main)
 - <b>Dream Sentiment Analysis (Spring 2024)</b>
