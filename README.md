@@ -1,13 +1,9 @@
 <h1>Hi, I'm Matti! <br/><a href="https://ucsdtritons.com/sports/womens-rowing/roster/matti-key/13072">D1 Student-Athlete</a>, <a href="https://cogsci.ucsd.edu/undergraduates/major/machine-learning.html">Major: Cognitive Science: Machine Learning and Neural Computation</a>, <a href="https://catalog.ucsd.edu/archive/2021-22/curric/DSC.html">Minor: Data Science</a> <a href="www.linkedin.com/in/matti-key"></a>
 
-<h2>🚀 Summer 2024 Internship Projects:</h2>
-
-- <b>Local and Private Text-to-SQL and RAG Chatbot (Summer 2024)</b>
-  - [Troubleshooting Bot (python & javascript)](https://github.com/keyaura3/Troubleshooting-Bot/tree/main)
-- <b>Chatbot using Closed-Sourced LLMs (Summer 2024)</b>
-
 <h2>👩🏽‍💻 Machine Learning Projects:</h2>
 
+- <b> Day Trading Prediction Machine (Personal Summer 2025 Project - Currently Working On It)</b>
+  - Analyzing Market Trends to Predict Whether to Buy or Sell
 - <b>Sleep Quality Predictor (Spring 2025)</b>
   - [Analyze your sleep patterns using evidence-based research data (python, javascript, data analysis, neural networks, prediction)](https://github.com/CONNIELIUGH/DSC106_Final_Project)
   - <b>[Final Website](https://connieliugh.github.io/DSC106_Final_Project/)</b>
@@ -21,6 +17,12 @@
   - [RGB Image Transformer and KNN Classifier (python)](https://github.com/keyaura3/BasicImageProcessing/tree/main)
 - <b>Image Editor</b>
   - [Two-dimensional Arrays (java)](https://github.com/keyaura3/ImageEditor)
+ 
+<h2>🚀 Summer 2024 Internship Projects:</h2>
+
+- <b>Local and Private Text-to-SQL and RAG Chatbot (Summer 2024)</b>
+  - [Troubleshooting Bot (python & javascript)](https://github.com/keyaura3/Troubleshooting-Bot/tree/main)
+- <b>Chatbot using Closed-Sourced LLMs (Summer 2024)</b>
 
 <h2>📊 Data Science Projects:</h2>
 
