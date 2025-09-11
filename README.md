@@ -56,7 +56,7 @@
 
 
 <h2> 🤳 Reach out to me:</h2>
-- 📫 Email me at akey@ucsd.edu
+- 📫 Email me at keyaura3@gmail.com
 </b>
 
 
