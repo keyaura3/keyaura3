@@ -2,7 +2,7 @@
 
 <h2>👩🏽‍💻 Machine Learning Projects:</h2>
 
-- <b> Day Trading Prediction Machine (Personal Summer 2025 Project - Currently Working On It)</b>
+- <b> Day Trading Prediction Machine (Personal Project - Currently Working On It)</b>
   - Analyzing Market Trends to Predict Whether to Buy or Sell
 - <b>Sleep Quality Predictor (Spring 2025)</b>
   - [Analyze your sleep patterns using evidence-based research data (python, javascript, data analysis, neural networks, prediction)](https://github.com/CONNIELIUGH/DSC106_Final_Project)
